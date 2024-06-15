@@ -1,0 +1,11 @@
+.task-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .task-card h5{
+    display: inline;
+    margin-right: 5px;
+  }
